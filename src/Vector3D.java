@@ -73,3 +73,4 @@ public class Vector3D {
         System.out.println(this.minus());
     }
 }
+

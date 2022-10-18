@@ -69,3 +69,4 @@ public class Vector2D {
         System.out.println(this.minus());
     }
 }
+
